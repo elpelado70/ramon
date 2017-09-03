@@ -1,0 +1,9 @@
+<table align="center" cellpadding="10"><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../images/modalidad.jpg" width="900" /></td></tr><tr><td>Realizaremos el documental con los medios mínimos e indispensables. Fieles a la tradición nómada, viajaremos sólo con lo imprescindible. Nada puede sobrar, es cierto, pero tampoco nada debe faltar. El diseño de producción y dirección está dirigido en este sentido: optar por lo fundamental. Los referentes para la construcción de esta singular puesta en escena son el norteamericano Robert Flaherty y el francés Chris Marker. A ellos pueden sumarse, entre otros, Jean Vigo, Jean Rouch, Agnès Varda, Robert Kramer y Jem Cohen. Aunque distintos, todos estos autores reconocen que la realidad no tiene estructura dramática y, por tanto, es necesario configurar un espacio y un tiempo, una puesta en escena, un relato. La premisa es filmar sin intervenir. El equipamiento de cámara y sonido será compacto y efectivo ya que no queremos ningún artefacto que por sus dimensiones entorpezca los traslados o intimide a las familias y eventuales entrevistados. Tenemos varios y fluidos contactos en tierra mongola, que colaboran y colaborarán para la óptima ejecución de nuestro proyecto.<br /><div align="right"><p>
+                                        <a class="Button" href="nosotros.php">
+                                          <span class="btn">
+                                            <span class="t">Leer&nbsp;m&aacute;s...</span>
+                                            <span class="r"><span></span></span>
+                                            <span class="l"></span>
+                                          </span>
+                                        </a>
+                                  </p></div></td></tr></table>

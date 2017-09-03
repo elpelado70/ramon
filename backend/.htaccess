@@ -1,0 +1,4 @@
+AuthName "moto2009"
+AuthType "basic"
+AuthUserFile /home/vz000355/public_html/backend/.passwd
+Require valid-user

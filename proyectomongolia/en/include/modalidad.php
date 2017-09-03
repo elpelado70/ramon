@@ -1,0 +1,9 @@
+<table align="center" cellpadding="10"><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../images/modalidad.jpg" width="900" /></td></tr><tr><td>We will film the documentary with the minimum and essential means. Faithful to the nomadic tradition, we shall travel with just the indispensable equipment. Nothing may be in excess, it's true, but also nothing can lack. The production and direction is steered in this sense: to choose the essential. The point of reference for the elaboration of this singular staging is the work of the North American Robert Flaherty and the Frenchman Chris Marker. We are also in debt to the works of Jean Vigo, Jean Rouch, Agnès Varda, Robert Kramer and Jem Cohen. Though they are different, these authors recognize that reality has no dramatic structure, and that therefore it's necessary to create a space and time, a stage, a story. The premise is filming without intervention. The equipment of camera and sound will be compact and effective, since we don't want any device whose size may hinder easy moves or intimidate the families and prospective interviewees. We already have reliable contacts in Mongolia, who are actually collaborating and will continue to do so for the optimum realization of our project. <br /><div align="right"><p>
+                                        <a class="Button" href="about_us.php">
+                                          <span class="btn">
+                                            <span class="t">More...</span>
+                                            <span class="r"><span></span></span>
+                                            <span class="l"></span>
+                                          </span>
+                                        </a>
+                                  </p></div></td></tr></table>

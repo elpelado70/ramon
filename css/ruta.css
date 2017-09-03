@@ -1,0 +1,172 @@
+body {
+	background-color:#ffe3c0;
+	color:#666666;
+	font-family: Trebuchet, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	padding: 0px;
+}
+
+img{
+	border-width:0px;
+}
+
+#container { margin: -10px auto; text-align: left; width: 900px; height: 592px;
+}
+#container2 { margin: -10px auto; text-align: left; width: 900px; background-color:#FFFFFF;
+}
+
+#base { margin: 7px 0px 0px 0px;
+}
+
+
+/********************** Menu ***************************/
+
+#menuh {width:900px; text-align:left; height:16px; padding-top: 0px; font: Trebuchet, Helvetica, sans-serif; color:#FFFFFF; font-size: 12px; font-weight:bold; }
+#menuh li.bottom {text-decoration: none; color:#FFFFFF; font-size: 12px;  border-width: 0px 0px 0px 0px;display:block; float:right;} 
+#menuh li a.bottom_link {display:block; line-height:16px; font-size:12px; font-weight:bold; padding:10px 10px 0 10px; color:#edb; text-decoration:none; font: Trebuchet, Helvetica, sans-serif; color:#FFFFFF;}
+#menuh li:hover > a.bottom_link {color:#414141; border-color:#e3610c;}
+
+
+/********************** Mapa ***************************/
+
+a {
+  outline: none;
+}
+
+.mapa {
+  margin: 40px 0px 0px 12px;
+  display: block;
+  width: 250px;
+  height: 138px;
+  background: url(../img/spc.gif) no-repeat;
+  text-indent: -9999px;
+}
+
+.motorman {
+  margin: 384px 0px 0px -255px;
+  display: block;
+  width: 68px;
+  height: 65px;
+  background: url(../img/spc.gif) no-repeat;
+  text-indent: -9999px;
+}
+
+.giache {
+  margin: 392px 0px 0px -178px;
+  display: block;
+  width: 98px;
+  height: 50px;
+  background: url(../img/spc.gif) no-repeat;
+  text-indent: -9999px;
+}
+
+.givi {
+  margin: 395px 0px 0px -70px;
+  display: block;
+  width: 100px;
+  height: 45px;
+  background: url(../img/spc.gif) no-repeat;
+  text-indent: -9999px;
+}
+
+.cyberseguidores {
+  margin: -345px 0px 0px 800px;
+  display: block;
+  width: 120px;
+  height: 30px;
+  background: url(../img/spc.gif) no-repeat;
+  text-indent: -9999px;
+}
+/********************** Texto ***************************/
+
+/* top - right - bottom - left */
+
+#texto{border:0; padding:0; margin-top: 30px; margin-left: 50px; float:left;}
+
+
+.justify {
+text-align: justify;
+}
+
+
+
+/* REGLAS PARA TODOS LOS LINKS */
+.gral a {text-decoration:none; color:#e06c00; font-size:9pt; font-weight:normal; float:none;} 
+.gral a:hover{margin:0; text-decoration:none; color:#666666; } 
+
+
+/* LINK 1 */
+.gral a span.itinerario{text-decoration: none; color:#e06c00; font-size:9pt;} 
+.gral a span.caracter1 {visibility:hidden;} 
+.gral a:hover span.caracter1{visibility: visible; color:#666666}
+.gral a:hover span.itinerario{text-decoration:none; color:#666666}
+
+
+
+.titulos_g {
+	font-size: 25px;
+	color: #e06c00;
+}
+
+.nombres {
+	font-size: 10px;
+	color: #e06c00;
+}
+
+.b1, .b2, .b3, .b4{font-size:1px; overflow:hidden; display:block;}
+.b1 {height:1px; background:#cdcdcd; margin:0 5px;}
+.b2 {height:1px; background:#cdcdcd; border-right:2px solid #cdcdcd; border-left:2px solid #cdcdcd; margin:0 3px;}
+.b3 {height:1px; background:#cdcdcd; border-right:1px solid #cdcdcd; border-left:1px solid #cdcdcd; margin:0 2px;}
+.b4 {height:2px; background:#cdcdcd; border-right:1px solid #cdcdcd; border-left:1px solid #cdcdcd; margin:0 1px;}
+.contentb {background: #cdcdcd; border-right:1px solid #cdcdcd; border-left:1px solid #cdcdcd;}
+.contentb div {margin-left: 5px; margin-right: 5px;}
+
+
+/********************** Codigo para ampliar mapa ***************************/
+
+a {display:block; float:left; margin:0px 0px 0px 0px; display:inline; border:0px solid #000;}
+
+
+#lightbox{	position: absolute;	left: 0; width: 100%; z-index: 100; text-align: center; line-height: 0;}
+#lightbox img{ width: auto; height: auto;}
+#lightbox a img{ border: none; }
+
+#outerImageContainer{ position: relative; width: 250px; height: 250px; margin: 0 auto; }
+#imageContainer{ padding: 10px; }
+
+#loading{ position: absolute; top: 40%; left: 0%; height: 25%; width: 100%; text-align: center; line-height: 0; }
+#hoverNav{ position: absolute; top: 0; left: 0; height: 100%; width: 100%; z-index: 10; }
+#imageContainer>#hoverNav{ left: 0;}
+#hoverNav a{ outline: none;}
+
+#prevLink, #nextLink{ width: 49%; height: 100%; background-image: url(data:image/gif;base64,AAAA); /* Trick IE into showing hover */ display: block; }
+#prevLink { left: 0; float: left;}
+#nextLink { right: 0; float: right;}
+#prevLink:hover, #prevLink:visited:hover { background: url(../images/prevlabel.gif) left 15% no-repeat; }
+#nextLink:hover, #nextLink:visited:hover { background: url(../images/nextlabel.gif) right 15% no-repeat; }
+
+#imageDataContainer{ font: 10px Verdana, Helvetica, sans-serif; margin: 0 auto; line-height: 1.4em; overflow: auto; width: 100%	; }
+
+#imageData{	padding:0 10px; color: #666; }
+#imageData #imageDetails{ width: 70%; float: left; text-align: left; }	
+#imageData #caption{ font-weight: bold;	}
+#imageData #numberDisplay{ display: block; clear: left; padding-bottom: 1.0em;	}			
+#imageData #bottomNavClose{ width: 66px; float: right;  padding-bottom: 0.7em; outline: none;}	 	
+
+#overlay{ position: absolute; top: 0; left: 0; z-index: 90; width: 100%; height: 500px; background-color: #000; }
+
+
+
+/*editor*/
+
+.textochico_editor	{
+	font-size: 11px;
+	font-weight: normal;
+	color: #666666;}
+
+.menu_editor {
+	font-size: 11px;
+	text-decoration: none;
+	font-weight: bold;
+	font-style : normal;
+	color: #666666;}
